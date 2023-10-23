@@ -9,7 +9,7 @@
 
 ## Live Demo (if available)
 
-[juego de adivinanza](file:///C:/Users/usuario/Documents/videojuego/juego.html)
+[ansalova.github.io](file:///C:/Users/usuario/Documents/videojuego/juego.html)
 
 ## Getting Started
 
