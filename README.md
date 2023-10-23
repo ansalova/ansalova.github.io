@@ -5,7 +5,6 @@
 - Html
 - Css
 - JavaScript
-- Vue 
 
 
 ## Live Demo (if available)
